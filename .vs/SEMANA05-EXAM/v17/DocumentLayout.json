@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|c:\\users\\user\\desktop\\net\\semana05-exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|c:\\users\\user\\desktop\\net\\semana05-exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|c:\\users\\user\\desktop\\net\\semana05-exam\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|solutionrelative:categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|c:\\users\\user\\desktop\\net\\semana05-exam\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|c:\\users\\user\\desktop\\net\\semana05-exam\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001F622B-93F7-4E5F-9AC6-F4F453161B6C}|SEMANA05-EXAM.csproj|solutionrelative:proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\Categorias.cs",
+              "RelativeDocumentMoniker": "Categorias.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\Categorias.cs",
+              "RelativeToolTip": "Categorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:38:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Proveedor.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\Proveedor.cs",
+              "RelativeToolTip": "Proveedor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T02:03:52.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:44:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T01:41:06.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\NET\\SEMANA05-EXAM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwHUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:41:02.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
