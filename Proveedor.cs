@@ -12,7 +12,6 @@ namespace SEMANA05_EXAM
         public string? NombreCompañia { get; set; }
         public string? NombreContacto { get; set; }
         public string? CargoContacto { get; set; }
-        
         public string? Direccion { get; set; }
         public string? Ciudad { get; set; }
         public decimal? Region { get; set; }

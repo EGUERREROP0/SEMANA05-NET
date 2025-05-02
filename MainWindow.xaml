@@ -14,10 +14,77 @@
                 <Button Name="btn1" Content="Button 1" Width="100" Height="30" Margin="5" Click="btn1_Click"/>
                 <Button Name="btn2" Content="Button 2" Width="100" Height="30" Margin="5" Click="btn1_Click2"/>
                 <Button Name="btn3" Content="Button 3" Width="100" Height="30" Margin="5" Click="btn1_Click3"/>
+
+                <TextBox  x:Name="txtBuscarProveedor"  Width="185" Height="30" Margin="5"/>
+                <Button Name="btn5" Content="Buscar" Width="100" Height="30" Margin="5" Click="btn1_Click4"/>
+                
+                <!-- tex box-->
+               
+
+
             </StackPanel>
 
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,0,0,10">
+                <!-- dates -->
+                <DatePicker x:Name="dtpFechaInicio" Width="185" Height="30" Margin="5"/>
+                <DatePicker x:Name="dtpFechaFin" Width="185" Height="30" Margin="5"/>
+                
+                <!-- Button-->
+                <Button Name="btn6" Content="Buscar" Width="100" Height="30" Margin="5" Click="btn1_Click5"/>
+
+                <Button Name="btnListar" Content="Listar Clientes" Width="100" Height="30" Margin="5" Click="ListarClientes"/>
+            </StackPanel>
+
+            <WrapPanel Orientation="Horizontal" Margin="10">
+
+                <!-- Columna 1 -->
+                <StackPanel Margin="10">
+                    <TextBlock Text="ID Cliente" />
+                    <TextBox Name="txtIdCliente" Width="200" Height="25"/>
+
+                    <TextBlock Text="Nombre Compañía" Margin="0,10,0,0"/>
+                    <TextBox Name="txtNombreCompania" Width="200" Height="25"/>
+
+                    <TextBlock Text="Nombre Contacto" Margin="0,10,0,0"/>
+                    <TextBox Name="txtNombreContacto" Width="200" Height="25"/>
+
+                    <TextBlock Text="Cargo Contacto" Margin="0,10,0,0"/>
+                    <TextBox Name="txtCargoContacto" Width="200" Height="25"/>
+
+                    <TextBlock Text="Dirección" Margin="0,10,0,0"/>
+                    <TextBox Name="txtDireccion" Width="200" Height="25"/>
+
+                    <TextBlock Text="Ciudad" Margin="0,10,0,0"/>
+                    <TextBox Name="txtCiudad" Width="200" Height="25"/>
+                </StackPanel>
+
+                <!-- Columna 2 -->
+                <StackPanel Margin="10">
+                    <TextBlock Text="Región" />
+                    <TextBox Name="txtRegion" Width="200" Height="25"/>
+
+                    <TextBlock Text="Código Postal" Margin="0,10,0,0"/>
+                    <TextBox Name="txtCodPostal" Width="200" Height="25"/>
+
+                    <TextBlock Text="País" Margin="0,10,0,0"/>
+                    <TextBox Name="txtPais" Width="200" Height="25"/>
+
+                    <TextBlock Text="Teléfono" Margin="0,10,0,0"/>
+                    <TextBox Name="txtTelefono" Width="200" Height="25"/>
+
+                    <TextBlock Text="Fax" Margin="0,10,0,0"/>
+                    <TextBox Name="txtFax" Width="200" Height="25"/>
+
+                    <!-- Botón abajo a la derecha -->
+                    <Button Name="btnAgregarClientes" Content="Agregar Cliente" Width="200" Height="30" Margin="0,10,0,0" Click="AgregarClientes"/>
+                </StackPanel>
+
+            </WrapPanel>
+
+
+
             <!-- DataGrid abajo -->
-            <DataGrid x:Name="dgProductos" Height="300"/>
+            <DataGrid x:Name="dgProductos" Height="200"/>
 
         </StackPanel>
 
